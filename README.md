@@ -11,7 +11,7 @@ python
 
 import topsis
 
-topsis.topsis(\<InputDataFile\>, <Weights>, <Impacts>, <ResultFileName>)
+topsis.topsis(\<InputDataFile\>, \<Weights\>, \<Impacts\>, \<ResultFileName\>)
   
 e.g.
 topsis.topsis("data.csv", "1,1,1,1,1", "+,-,+,-,+", "output.csv")
