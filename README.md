@@ -6,6 +6,7 @@ It takes input from command line and creates a .csv file containing TOPSIS score
 
 ## How to use it?
 Open terminal and type the input in following format
+
 import topsis
 
 topsis.topsis(<InputDataFile>, <Weights>, <Impacts>, <ResultFileName>)
